@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Cards/Pods-Cards-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CardTabBar/CardTabBar.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
